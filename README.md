@@ -1,2 +1,1 @@
-# switchscale
-I used in which C++, oops
+# Switch_Scale
